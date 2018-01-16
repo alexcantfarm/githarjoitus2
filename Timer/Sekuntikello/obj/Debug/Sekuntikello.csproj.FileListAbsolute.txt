@@ -1,0 +1,10 @@
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\Timer\Sekuntikello\bin\Debug\Sekuntikello.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\Timer\Sekuntikello\bin\Debug\Sekuntikello.pdb
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\Timer\Sekuntikello\obj\Debug\Sekuntikello.csprojResolveAssemblyReference.cache
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\Timer\Sekuntikello\obj\Debug\Sekuntikello.Form1.resources
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\Timer\Sekuntikello\obj\Debug\Sekuntikello.Properties.Resources.resources
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\Timer\Sekuntikello\obj\Debug\Sekuntikello.csproj.GenerateResource.Cache
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\Timer\Sekuntikello\obj\Debug\Sekuntikello.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\Timer\Sekuntikello\obj\Debug\Sekuntikello.pdb
+M:\verkko-ohjelmointi\Timer\Sekuntikello\obj\Debug\Sekuntikello.exe
+M:\verkko-ohjelmointi\Timer\Sekuntikello\obj\Debug\Sekuntikello.pdb

@@ -1,0 +1,9 @@
+M:\verkko-ohjelmointi\ConsumerProducer\ConsumerProducer\bin\Debug\ConsumerProducer.exe.config
+M:\verkko-ohjelmointi\ConsumerProducer\ConsumerProducer\bin\Debug\ConsumerProducer.exe
+M:\verkko-ohjelmointi\ConsumerProducer\ConsumerProducer\bin\Debug\ConsumerProducer.pdb
+M:\verkko-ohjelmointi\ConsumerProducer\ConsumerProducer\obj\Debug\ConsumerProducer.csprojResolveAssemblyReference.cache
+M:\verkko-ohjelmointi\ConsumerProducer\ConsumerProducer\obj\Debug\ConsumerProducer.exe
+M:\verkko-ohjelmointi\ConsumerProducer\ConsumerProducer\obj\Debug\ConsumerProducer.pdb
+M:\verkko-ohjelmointi\harjoitukset\ConsumerProducer\ConsumerProducer\bin\Debug\ConsumerProducer.exe.config
+M:\verkko-ohjelmointi\harjoitukset\ConsumerProducer\ConsumerProducer\obj\Debug\ConsumerProducer.exe
+M:\verkko-ohjelmointi\harjoitukset\ConsumerProducer\ConsumerProducer\obj\Debug\ConsumerProducer.pdb

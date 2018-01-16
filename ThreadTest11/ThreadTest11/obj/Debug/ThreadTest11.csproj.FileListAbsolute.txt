@@ -1,0 +1,6 @@
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ThreadTest11\ThreadTest11\bin\Debug\ThreadTest11.exe.config
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ThreadTest11\ThreadTest11\bin\Debug\ThreadTest11.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ThreadTest11\ThreadTest11\bin\Debug\ThreadTest11.pdb
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ThreadTest11\ThreadTest11\obj\Debug\ThreadTest11.csprojResolveAssemblyReference.cache
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ThreadTest11\ThreadTest11\obj\Debug\ThreadTest11.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ThreadTest11\ThreadTest11\obj\Debug\ThreadTest11.pdb

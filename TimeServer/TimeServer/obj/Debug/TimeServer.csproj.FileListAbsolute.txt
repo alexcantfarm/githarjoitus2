@@ -1,0 +1,12 @@
+M:\tietorak. ja algs\TimeServer\TimeServer\bin\Debug\TimeServer.exe.config
+M:\tietorak. ja algs\TimeServer\TimeServer\bin\Debug\TimeServer.exe
+M:\tietorak. ja algs\TimeServer\TimeServer\bin\Debug\TimeServer.pdb
+M:\tietorak. ja algs\TimeServer\TimeServer\obj\Debug\TimeServer.csprojResolveAssemblyReference.cache
+M:\tietorak. ja algs\TimeServer\TimeServer\obj\Debug\TimeServer.exe
+M:\tietorak. ja algs\TimeServer\TimeServer\obj\Debug\TimeServer.pdb
+C:\Temp\TimeServer\TimeServer\bin\Debug\TimeServer.exe.config
+C:\Temp\TimeServer\TimeServer\obj\Debug\TimeServer.exe
+C:\Temp\TimeServer\TimeServer\obj\Debug\TimeServer.pdb
+C:\Temp\TimeServer\TimeServer\bin\Debug\TimeServer.exe
+C:\Temp\TimeServer\TimeServer\bin\Debug\TimeServer.pdb
+C:\Temp\TimeServer\TimeServer\obj\Debug\TimeServer.csprojResolveAssemblyReference.cache

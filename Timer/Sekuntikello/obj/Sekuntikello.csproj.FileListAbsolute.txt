@@ -1,0 +1,18 @@
+Y:\Makela_Petteri\KLTITE04OH\Hajautetut tietojärjestelmät\Säikeet\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.exe
+Y:\Makela_Petteri\KLTITE04OH\Hajautetut tietojärjestelmät\Säikeet\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.pdb
+Y:\Makela_Petteri\KLTITE04OH\Hajautetut tietojärjestelmät\Säikeet\Sekuntikello\Sekuntikello\bin\Debug\Sekuntikello.exe
+Y:\Makela_Petteri\KLTITE04OH\Hajautetut tietojärjestelmät\Säikeet\Sekuntikello\Sekuntikello\bin\Debug\Sekuntikello.pdb
+Y:\Makela_Petteri\KLTITE04OH\Hajautetut tietojärjestelmät\Säikeet\Sekuntikello\Sekuntikello\obj\Debug\ResolveAssemblyReference.cache
+Y:\Makela_Petteri\KLTITE04OH\Hajautetut tietojärjestelmät\Säikeet\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.Form1.resources
+Y:\Makela_Petteri\KLTITE04OH\Hajautetut tietojärjestelmät\Säikeet\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.Properties.Resources.resources
+Y:\Makela_Petteri\KLTITE04OH\Hajautetut tietojärjestelmät\Säikeet\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.csproj.GenerateResource.Cache
+C:\Makela_Petteri\KLTITE04OH\Hajautetut tietojärjestelmät\Säikeet\Sekuntikello\Sekuntikello\bin\Debug\Sekuntikello.exe
+C:\Makela_Petteri\KLTITE04OH\Hajautetut tietojärjestelmät\Säikeet\Sekuntikello\Sekuntikello\bin\Debug\Sekuntikello.pdb
+C:\Makela_Petteri\KLTITE04OH\Hajautetut tietojärjestelmät\Säikeet\Sekuntikello\Sekuntikello\obj\Debug\ResolveAssemblyReference.cache
+C:\Makela_Petteri\KLTITE04OH\Hajautetut tietojärjestelmät\Säikeet\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.Form1.resources
+C:\Makela_Petteri\KLTITE04OH\Hajautetut tietojärjestelmät\Säikeet\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.Properties.Resources.resources
+C:\Makela_Petteri\KLTITE04OH\Hajautetut tietojärjestelmät\Säikeet\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.csproj.GenerateResource.Cache
+C:\Makela_Petteri\KLTITE04OH\Hajautetut tietojärjestelmät\Säikeet\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.exe
+C:\Makela_Petteri\KLTITE04OH\Hajautetut tietojärjestelmät\Säikeet\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.pdb
+Y:\Makela_Petteri\KLTITE06OHSU\Windows-systeemiohjelmointi\C#\Säikeet\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.exe
+Y:\Makela_Petteri\KLTITE06OHSU\Windows-systeemiohjelmointi\C#\Säikeet\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.pdb

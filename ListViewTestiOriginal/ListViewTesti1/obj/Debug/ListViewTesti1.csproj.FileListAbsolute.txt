@@ -1,0 +1,10 @@
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ListViewTestiOriginal\ListViewTesti1\bin\Debug\ListViewTesti1.exe.config
+M:\verkko-ohjelmointi\ListViewTestiOriginal\ListViewTesti1\bin\Debug\ListViewTesti1.exe.config
+M:\verkko-ohjelmointi\ListViewTestiOriginal\ListViewTesti1\bin\Debug\ListViewTesti1.exe
+M:\verkko-ohjelmointi\ListViewTestiOriginal\ListViewTesti1\bin\Debug\ListViewTesti1.pdb
+M:\verkko-ohjelmointi\ListViewTestiOriginal\ListViewTesti1\obj\Debug\ListViewTesti1.csprojResolveAssemblyReference.cache
+M:\verkko-ohjelmointi\ListViewTestiOriginal\ListViewTesti1\obj\Debug\ListViewTesti1.Form1.resources
+M:\verkko-ohjelmointi\ListViewTestiOriginal\ListViewTesti1\obj\Debug\ListViewTesti1.Properties.Resources.resources
+M:\verkko-ohjelmointi\ListViewTestiOriginal\ListViewTesti1\obj\Debug\ListViewTesti1.csproj.GenerateResource.Cache
+M:\verkko-ohjelmointi\ListViewTestiOriginal\ListViewTesti1\obj\Debug\ListViewTesti1.exe
+M:\verkko-ohjelmointi\ListViewTestiOriginal\ListViewTesti1\obj\Debug\ListViewTesti1.pdb

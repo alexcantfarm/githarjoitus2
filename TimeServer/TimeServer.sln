@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeServer", "TimeServer\TimeServer.csproj", "{FE8F92F9-0116-4E36-B779-65F80A1CA254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerClient", "TimerClient\TimerClient.csproj", "{52C222DD-ABD1-4D45-9B2A-933D7AD546BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE8F92F9-0116-4E36-B779-65F80A1CA254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8F92F9-0116-4E36-B779-65F80A1CA254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8F92F9-0116-4E36-B779-65F80A1CA254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8F92F9-0116-4E36-B779-65F80A1CA254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C222DD-ABD1-4D45-9B2A-933D7AD546BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C222DD-ABD1-4D45-9B2A-933D7AD546BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C222DD-ABD1-4D45-9B2A-933D7AD546BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C222DD-ABD1-4D45-9B2A-933D7AD546BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

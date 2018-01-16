@@ -1,0 +1,8 @@
+Y:\Makela_Petteri\KLTITE08\Ohjelmoinnin perusteet 2\ListViewTesti1\ListViewTesti1\obj\Debug\ResolveAssemblyReference.cache
+Y:\Makela_Petteri\KLTITE08\Ohjelmoinnin perusteet 2\ListViewTesti1\ListViewTesti1\obj\Debug\ListViewTesti1.Form1.resources
+Y:\Makela_Petteri\KLTITE08\Ohjelmoinnin perusteet 2\ListViewTesti1\ListViewTesti1\obj\Debug\ListViewTesti1.Properties.Resources.resources
+Y:\Makela_Petteri\KLTITE08\Ohjelmoinnin perusteet 2\ListViewTesti1\ListViewTesti1\obj\Debug\ListViewTesti1.csproj.GenerateResource.Cache
+Y:\Makela_Petteri\KLTITE08\Ohjelmoinnin perusteet 2\ListViewTesti1\ListViewTesti1\bin\Debug\ListViewTesti1.exe
+Y:\Makela_Petteri\KLTITE08\Ohjelmoinnin perusteet 2\ListViewTesti1\ListViewTesti1\bin\Debug\ListViewTesti1.pdb
+Y:\Makela_Petteri\KLTITE08\Ohjelmoinnin perusteet 2\ListViewTesti1\ListViewTesti1\obj\Debug\ListViewTesti1.exe
+Y:\Makela_Petteri\KLTITE08\Ohjelmoinnin perusteet 2\ListViewTesti1\ListViewTesti1\obj\Debug\ListViewTesti1.pdb

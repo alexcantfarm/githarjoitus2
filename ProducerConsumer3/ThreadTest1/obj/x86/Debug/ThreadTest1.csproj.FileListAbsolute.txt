@@ -1,0 +1,16 @@
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ProducerConsumer0\ThreadTest1\bin\Debug\ThreadTest1.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ProducerConsumer0\ThreadTest1\bin\Debug\ThreadTest1.pdb
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ProducerConsumer0\ThreadTest1\obj\x86\Debug\ThreadTest1.csprojResolveAssemblyReference.cache
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ProducerConsumer0\ThreadTest1\obj\x86\Debug\ThreadTest1.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ProducerConsumer0\ThreadTest1\obj\x86\Debug\ThreadTest1.pdb
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ProducerConsumer2\ThreadTest1\obj\x86\Debug\ThreadTest1.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ProducerConsumer2\ThreadTest1\obj\x86\Debug\ThreadTest1.pdb
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ProducerConsumer2\ThreadTest1\bin\Debug\ThreadTest1.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ProducerConsumer2\ThreadTest1\bin\Debug\ThreadTest1.pdb
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ProducerConsumer3\ThreadTest1\obj\x86\Debug\ThreadTest1.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ProducerConsumer3\ThreadTest1\obj\x86\Debug\ThreadTest1.pdb
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ProducerConsumer3\ThreadTest1\bin\Debug\ThreadTest1.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ProducerConsumer3\ThreadTest1\bin\Debug\ThreadTest1.pdb
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ProducerConsumer3\ThreadTest1\obj\x86\Debug\ThreadTest1.csprojResolveAssemblyReference.cache
+M:\verkko-ohjelmointi\ProducerConsumer3\ThreadTest1\obj\x86\Debug\ThreadTest1.exe
+M:\verkko-ohjelmointi\ProducerConsumer3\ThreadTest1\obj\x86\Debug\ThreadTest1.pdb

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Sekuntikello.Form1.resources
+obj\Debug\Sekuntikello.Properties.Resources.resources
+obj\Debug\Sekuntikello.csproj.GenerateResource.Cache
+bin\Debug\Sekuntikello.exe
+bin\Debug\Sekuntikello.pdb
+obj\Debug\Sekuntikello.exe
+obj\Debug\Sekuntikello.pdb

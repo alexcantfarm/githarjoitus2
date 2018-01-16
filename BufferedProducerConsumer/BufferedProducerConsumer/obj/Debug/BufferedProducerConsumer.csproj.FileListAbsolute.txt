@@ -1,0 +1,6 @@
+M:\verkko-ohjelmointi\BufferedProducerConsumer\BufferedProducerConsumer\bin\Debug\BufferedProducerConsumer.exe.config
+M:\verkko-ohjelmointi\BufferedProducerConsumer\BufferedProducerConsumer\obj\Debug\BufferedProducerConsumer.csprojResolveAssemblyReference.cache
+M:\verkko-ohjelmointi\BufferedProducerConsumer\BufferedProducerConsumer\bin\Debug\BufferedProducerConsumer.exe
+M:\verkko-ohjelmointi\BufferedProducerConsumer\BufferedProducerConsumer\bin\Debug\BufferedProducerConsumer.pdb
+M:\verkko-ohjelmointi\BufferedProducerConsumer\BufferedProducerConsumer\obj\Debug\BufferedProducerConsumer.exe
+M:\verkko-ohjelmointi\BufferedProducerConsumer\BufferedProducerConsumer\obj\Debug\BufferedProducerConsumer.pdb

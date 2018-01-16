@@ -1,0 +1,5 @@
+C:\Temp\TimeServer\TimerClient\bin\Debug\TimerClient.exe.config
+C:\Temp\TimeServer\TimerClient\bin\Debug\TimerClient.exe
+C:\Temp\TimeServer\TimerClient\bin\Debug\TimerClient.pdb
+C:\Temp\TimeServer\TimerClient\obj\Debug\TimerClient.exe
+C:\Temp\TimeServer\TimerClient\obj\Debug\TimerClient.pdb

@@ -1,0 +1,5 @@
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ThreadInterference\ThreadInterference\bin\Debug\ThreadInterference.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ThreadInterference\ThreadInterference\bin\Debug\ThreadInterference.pdb
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ThreadInterference\ThreadInterference\obj\x86\Debug\ThreadInterference.csprojResolveAssemblyReference.cache
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ThreadInterference\ThreadInterference\obj\x86\Debug\ThreadInterference.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\ThreadInterference\ThreadInterference\obj\x86\Debug\ThreadInterference.pdb
